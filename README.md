@@ -12,7 +12,7 @@ I am a .NET technical lead and solutions consultant with an experience of over 1
 | Web                        | HTML5, CSS3, Web Components, Material Design, AJAX, Responsive Design                                                                                                   |
 | JavaScript                 | jQuery, Angular Js, JSON                                                                                                                                                |
 | Unit Testing               | NUnit, XUnit                                                                                                                                                            |
-| Development                | .NET, C#, ASP.Net MVC 5 / RESTful API, LINQ, ADO.net, Entity Framework, .NET Core, Dapper, Mongo Driver, npgsql for PostgreSQL .NET                                     |
+| Development                | .NET, C#, Python basics, ASP.Net MVC 5 / RESTful API, LINQ, ADO.net, Entity Framework, .NET Core, Dapper, Mongo Driver, npgsql for PostgreSQL .NET                                     |
 | UI Frameworks              | Bootstrap, jQuery UI, Angular 10+                                                                                                                                       |
 | Backend & Reporting        | MS SQL, Oracle, MongoDB, PostgreSQL, SonarQube analytics                                                                                                                |
 | Source Control/Deployments | SVN, TFS, Azure Git, GitHub, Azure DevOps Pipelines, AWS EC2 with CloudWatch, S3 Document Storage & IAM                                                                 |
