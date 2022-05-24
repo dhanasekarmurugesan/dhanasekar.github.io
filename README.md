@@ -23,7 +23,8 @@ I am a .NET technical lead and solutions consultant with an experience of over 1
 
 | Organization   | Role                                         | Timeline             |
 | -------------- | -------------------------------------------- | -------------------- |
-| Aspire Systems | Senior Technical Lead – .NET Architect Group | Feb 2010 – Till Date |
+| TCS            | Associate Consultant                         | May 2022 - Present   |
+| Aspire Systems | Senior Technical Lead – .NET Architect Group | Feb 2010 – Apr 2022  |
 | Aspire Systems | .NET Career Training                         | Nov 2009 - Feb 2010  |
 
 ---
