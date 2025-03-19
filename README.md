@@ -17,13 +17,14 @@ I am a .NET technical lead and solutions consultant with an experience of over 1
 | Backend & Reporting        | MS SQL, Oracle, MongoDB, PostgreSQL, SonarQube analytics                                                                                                                |
 | Source Control/Deployments | SVN, TFS, Azure Git, GitHub, Azure DevOps Pipelines, AWS EC2 with CloudWatch, S3 Document Storage & IAM                                                                 |
 | Middleware                 | Microservices, Kafka Message Streamers, Redis                                                                                                                           |
-| Domains                    | Employee Health Benefits (US), Spa, Salon & Hospitality Services, Global Corporate Survey, Oil & Natural Gas (North America) & School Management with e-Learning (Gulf) |
+| Domains                    | Employee Health Benefits (US), Spa, Salon & Hospitality Services, Global Corporate Survey, Oil & Natural Gas (North America) & School Management with e-Learning (Gulf), Tax & Audit (SG/APAC) |
 
 ## Experience
 
 | Organization   | Role                                         | Timeline             |
 | -------------- | -------------------------------------------- | -------------------- |
-| TCS            | Associate Consultant                         | May 2022 - Present   |
+| Aspire Systems | Associate Technical Architect                | Feb 2023 - Present   |
+| TCS            | Associate Consultant                         | May 2022 - Feb 2023  |
 | Aspire Systems | Senior Technical Lead – .NET Architect Group | Feb 2010 – Apr 2022  |
 | Aspire Systems | .NET Career Training                         | Nov 2009 - Feb 2010  |
 
